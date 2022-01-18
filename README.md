@@ -34,7 +34,10 @@ Unicode (UTF-8)
 
 
 PS C:\Users\name> get-content a.txt
+
+
 あいうえお
+
 かきくけこ
 
 
