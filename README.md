@@ -37,6 +37,8 @@ PS C:\Users\name> get-content a.txt
 あいうえお
 かきくけこ
 
+
+
 日本語が表示された
 
 
