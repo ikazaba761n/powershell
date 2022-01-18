@@ -28,6 +28,7 @@ OS                             Microsoft Windows
 
 文字コードを確認
 PS C:\Users\name> $OutputEncoding.EncodingName
+
 Unicode (UTF-8)
 
 文字コードがUTF-8になっている。
@@ -51,9 +52,11 @@ PS C:\Users\name> get-content a.txt
 パワーシェル　PSVersion   5.1.　Edition            Desktop
 
 PS C:\Users\name> $OutputEncoding.EncodingName
+
 US-ASCII
 
 PS C:\Users\name> get-content a.txt
+
 縺ゅ＞縺・∴縺・縺九″縺上￠縺・
 
 上記のように文字化け　US　ASCII　のため
