@@ -10,3 +10,4 @@ OS                             Microsoft Windows
 PS C:\Users\yourname> $OutputEncoding.EncodingName
 Unicode (UTF-8)
 
+ C:\Users\yourname> Add-Content -Path C:/users/yourname/test.txt -value "test_test_"
