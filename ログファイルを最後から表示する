@@ -1,0 +1,3 @@
+ Get-Content "C:\Windows\Logs\DISM\dism.log" | Select-Object -Last 10
+ 
+ 
